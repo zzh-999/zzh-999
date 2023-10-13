@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World6</title>
+      <link href="/2023/10/13/%E6%A0%87%E9%A2%981%E5%89%AF%E6%9C%AC/"/>
+      <url>/2023/10/13/%E6%A0%87%E9%A2%981%E5%89%AF%E6%9C%AC/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标题1"><a href="#标题1" class="headerlink" title="标题1#"></a>标题1#</h1><h2 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h2><blockquote><p>这是一段引用&gt;</p></blockquote><h3 id="有序列表："><a href="#有序列表：" class="headerlink" title="有序列表："></a>有序列表：</h3><ol><li>打开冰箱</li></ol><h3 id="无序列表："><a href="#无序列表：" class="headerlink" title="无序列表："></a>无序列表：</h3><ul><li>一个-</li></ul><ul><li>第二种*</li></ul><h3 id="明天要做的事情："><a href="#明天要做的事情：" class="headerlink" title="明天要做的事情："></a>明天要做的事情：</h3><ul><li><input disabled="" type="checkbox"> 一定要注意最后一个空格</li></ul><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line"> ``` c 方式   </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="表格："><a href="#表格：" class="headerlink" title="表格："></a>表格：</h3><table><thead><tr><th>姓名</th><th>年龄</th><th>成绩</th></tr></thead><tbody><tr><td>表格还不会用</td><td></td><td></td></tr></tbody></table><h3 id="脚注："><a href="#脚注：" class="headerlink" title="脚注："></a>脚注：</h3><p>一键三连<a href="%E7%82%B9%E8%B5%9E%E3%80%81%E6%8A%95%E5%B8%81%E3%80%81%E6%94%B6%E8%97%8F%E3%80%82">^三连</a> : [^]</p><h3 id="横线："><a href="#横线：" class="headerlink" title="横线："></a>横线：</h3><hr><h3 id="链接："><a href="#链接：" class="headerlink" title="链接："></a>链接：</h3><p><a href="baidu.com" title="一个搜索网址">百度</a>   【name](url “提示”)  2.引用链接  3.可以作用到标题url换成#标题</p><p><img src="C:\Users\zhang'zhan'hao\Pictures\u=149893631,2075403091&fm=253&fmt=auto&app=138&f=JPEG.webp" alt="百度" title="图片1"></p><h3 id="图片链接：前面多一个！"><a href="#图片链接：前面多一个！" class="headerlink" title="图片链接：前面多一个！"></a>图片链接：前面多一个！</h3><h3 id="斜体一对星号"><a href="#斜体一对星号" class="headerlink" title="斜体一对星号"></a><em>斜体一对星号</em></h3><h3 id="加粗两对星号"><a href="#加粗两对星号" class="headerlink" title="加粗两对星号"></a><strong>加粗两对星号</strong></h3><h3 id="一对反引号-反引号是esc下面的键"><a href="#一对反引号-反引号是esc下面的键" class="headerlink" title="一对反引号 反引号是esc下面的键"></a><code>一对反引号 反引号是esc下面的键</code></h3><h3 id="html-的u标签实现下划线"><a href="#html-的u标签实现下划线" class="headerlink" title=" html 的u标签实现下划线"></a><u> html 的u标签实现下划线</u></h3><h3 id="smile-表情标签：是-加英文单词"><a href="#smile-表情标签：是-加英文单词" class="headerlink" title=":smile:表情标签：是:加英文单词"></a>:smile:表情标签：是:加英文单词</h3><h3 id="下标：一对波浪号"><a href="#下标：一对波浪号" class="headerlink" title="下标：一对波浪号"></a>下标：一对波浪号</h3><p>h<del>2</del>o</p><h3 id="上标：一对"><a href="#上标：一对" class="headerlink" title="上标：一对^"></a>上标：一对^</h3><p>x^2^</p><h3 id="高亮显示：一对等号"><a href="#高亮显示：一对等号" class="headerlink" title="高亮显示：一对等号"></a>高亮显示：一对等号</h3><p>&#x3D;&#x3D;1&#x3D;&#x3D;</p><p>内容<sup><a href="#1">[1]</a></sup></p><p><mark>这段文本会被高亮显示</mark></p><p><a id="1">[1]</a> 说明</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test1</title>
+      <link href="/2023/10/13/test1/"/>
+      <url>/2023/10/13/test1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标题1"><a href="#标题1" class="headerlink" title="标题1#"></a>标题1#</h1><h2 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h2><blockquote><p>这是一段引用&gt;</p></blockquote><h3 id="有序列表："><a href="#有序列表：" class="headerlink" title="有序列表："></a>有序列表：</h3><ol><li>打开冰箱</li></ol><h3 id="无序列表："><a href="#无序列表：" class="headerlink" title="无序列表："></a>无序列表：</h3><ul><li>一个-</li></ul><ul><li>第二种*</li></ul><h3 id="明天要做的事情："><a href="#明天要做的事情：" class="headerlink" title="明天要做的事情："></a>明天要做的事情：</h3><ul><li><input disabled="" type="checkbox"> 一定要注意最后一个空格</li></ul><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line"> ``` c 方式   </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="表格："><a href="#表格：" class="headerlink" title="表格："></a>表格：</h3><table><thead><tr><th>姓名</th><th>年龄</th><th>成绩</th></tr></thead><tbody><tr><td>表格还不会用</td><td></td><td></td></tr></tbody></table><h3 id="脚注："><a href="#脚注：" class="headerlink" title="脚注："></a>脚注：</h3><p>一键三连<a href="%E7%82%B9%E8%B5%9E%E3%80%81%E6%8A%95%E5%B8%81%E3%80%81%E6%94%B6%E8%97%8F%E3%80%82">^三连</a> : [^]</p><h3 id="横线："><a href="#横线：" class="headerlink" title="横线："></a>横线：</h3><hr><h3 id="链接："><a href="#链接：" class="headerlink" title="链接："></a>链接：</h3><p><a href="baidu.com" title="一个搜索网址">百度</a>   【name](url “提示”)  2.引用链接  3.可以作用到标题url换成#标题</p><p><img src="C:\Users\zhang'zhan'hao\Pictures\u=149893631,2075403091&fm=253&fmt=auto&app=138&f=JPEG.webp" alt="百度" title="图片1"></p><h3 id="图片链接：前面多一个！"><a href="#图片链接：前面多一个！" class="headerlink" title="图片链接：前面多一个！"></a>图片链接：前面多一个！</h3><h3 id="斜体一对星号"><a href="#斜体一对星号" class="headerlink" title="斜体一对星号"></a><em>斜体一对星号</em></h3><h3 id="加粗两对星号"><a href="#加粗两对星号" class="headerlink" title="加粗两对星号"></a><strong>加粗两对星号</strong></h3><h3 id="一对反引号-反引号是esc下面的键"><a href="#一对反引号-反引号是esc下面的键" class="headerlink" title="一对反引号 反引号是esc下面的键"></a><code>一对反引号 反引号是esc下面的键</code></h3><h3 id="html-的u标签实现下划线"><a href="#html-的u标签实现下划线" class="headerlink" title=" html 的u标签实现下划线"></a><u> html 的u标签实现下划线</u></h3><h3 id="smile-表情标签：是-加英文单词"><a href="#smile-表情标签：是-加英文单词" class="headerlink" title=":smile:表情标签：是:加英文单词"></a>:smile:表情标签：是:加英文单词</h3><h3 id="下标：一对波浪号"><a href="#下标：一对波浪号" class="headerlink" title="下标：一对波浪号"></a>下标：一对波浪号</h3><p>h<del>2</del>o</p><h3 id="上标：一对"><a href="#上标：一对" class="headerlink" title="上标：一对^"></a>上标：一对^</h3><p>x^2^</p><h3 id="高亮显示：一对等号"><a href="#高亮显示：一对等号" class="headerlink" title="高亮显示：一对等号"></a>高亮显示：一对等号</h3><p>&#x3D;&#x3D;1&#x3D;&#x3D;</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/10/13/hello-world2/"/>
+      <url>/2023/10/13/hello-world2/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/10/13/hello-world/"/>
+      <url>/2023/10/13/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
